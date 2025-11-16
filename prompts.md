@@ -1,1 +1,5 @@
-
+1. "Crie uma introdução para um episódio de podcast sobre Call of Duty: Warzone."
+2. "Explique a evolução do Warzone desde o seu lançamento até hoje, destacando mapas e modos de jogo."
+3. "Liste as principais estratégias que jogadores iniciantes podem usar para sobreviver mais tempo nas partidas."
+4. "Crie uma discussão sobre as armas e loadouts mais populares no Warzone atualmente."
+5. "Crie uma conclusão inspiradora convidando os ouvintes a compartilhar suas próprias experiências no jogo."
