@@ -9,3 +9,6 @@ E para quem está começando agora, algumas dicas são fundamentais: escolha loc
 No meta atual, rifles de assalto estáveis e SMGs de alta mobilidade continuam como as favoritas. Combinar uma arma de médio alcance com uma SMG para combate próximo é quase sempre a escolha mais eficiente.
 
 E eu quero saber de vocês: qual mapa marcou sua trajetória no Warzone? Que estratégias vocês usam? E qual é o seu loadout favorito? Compartilhem comigo! Obrigado por acompanhar, e nos vemos no próximo episódio — ou talvez na sua próxima queda.
+
+
+Para ouvir o audio acesso o link https://github.com/WSCovre/meu-projeto-podcast/blob/main/Audio_podcast.m4a
